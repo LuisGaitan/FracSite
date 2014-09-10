@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\F1\F1 Menu.js">
+    <Files>
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="38" Column="4" />
+      <File FileName="Assets\HARC Scripts\Chest.cs" Line="47" Column="16" />
+      <File FileName="Assets\HARC Scripts\DoubleClick2.js" Line="207" Column="1" />
+      <File FileName="Assets\HARC Scripts\ZoomJ.js" Line="13" Column="2" />
+      <File FileName="Assets\HARC Scripts\Minimap.js" Line="44" Column="37" />
+      <File FileName="Assets\HARC Scripts\globalVar.js" Line="3" Column="1" />
+      <File FileName="Assets\HARC Scripts\HotSpot.js" Line="39" Column="1" />
+      <File FileName="Assets\F1\F1 Menu.js" Line="99" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
