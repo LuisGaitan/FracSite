@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: ed8436ac7bf53ee40b32990983eeeb67
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box004
+    100002: Box007
+    100004: Box008
+    100006: Box009
+    100008: Box010
+    100010: Box011
+    100012: Box012
+    100014: Box013
+    100016: cabin
+    100018: ChamferCyl002
+    100020: Cylinder271
+    100022: front fender
+    100024: Group001
+    100026: Group_008
+    100028: Group_015
+    100030: Group_024
+    100032: left ront wheel guard
+    100034: left stack001
+    100036: left stack002
+    100038: Line007
+    100040: Line008
+    100042: Line009
+    100044: Line010
+    100046: Line011
+    100048: Line012
+    100050: Line014
+    100052: Line015
+    100054: Line016
+    100056: middle beam
+    100058: newtire008
+    100060: newtire016
+    100062: newtire017
+    100064: newtire018
+    100066: newtire019
+    100068: newtire020
+    100070: Object001
+    100072: passengerside steps
+    100074: passengerside steps001
+    100076: Pyramid001
+    100078: Pyramid003
+    100080: Rectangle002
+    100082: Rectangle003
+    100084: reflectpr lights
+    100086: right exhaust stack
+    100088: right front wheel guard
+    100090: right side mirror
+    100092: right side mirror001
+    100094: Sandtruck Cabin
+    100096: //RootNode
+    100098: Tank001
+    100100: Tank002
+    100102: Truck Front
+    400000: Box004
+    400002: Box007
+    400004: Box008
+    400006: Box009
+    400008: Box010
+    400010: Box011
+    400012: Box012
+    400014: Box013
+    400016: cabin
+    400018: ChamferCyl002
+    400020: Cylinder271
+    400022: front fender
+    400024: Group001
+    400026: Group_008
+    400028: Group_015
+    400030: Group_024
+    400032: left ront wheel guard
+    400034: left stack001
+    400036: left stack002
+    400038: Line007
+    400040: Line008
+    400042: Line009
+    400044: Line010
+    400046: Line011
+    400048: Line012
+    400050: Line014
+    400052: Line015
+    400054: Line016
+    400056: middle beam
+    400058: newtire008
+    400060: newtire016
+    400062: newtire017
+    400064: newtire018
+    400066: newtire019
+    400068: newtire020
+    400070: Object001
+    400072: passengerside steps
+    400074: passengerside steps001
+    400076: Pyramid001
+    400078: Pyramid003
+    400080: Rectangle002
+    400082: Rectangle003
+    400084: reflectpr lights
+    400086: right exhaust stack
+    400088: right front wheel guard
+    400090: right side mirror
+    400092: right side mirror001
+    400094: Sandtruck Cabin
+    400096: //RootNode
+    400098: Tank001
+    400100: Tank002
+    400102: Truck Front
+    2300000: Box004
+    2300002: Box007
+    2300004: Box008
+    2300006: Box009
+    2300008: Box010
+    2300010: Box011
+    2300012: Box012
+    2300014: Box013
+    2300016: cabin
+    2300018: ChamferCyl002
+    2300020: Cylinder271
+    2300022: front fender
+    2300024: Group_008
+    2300026: Group_015
+    2300028: Group_024
+    2300030: left ront wheel guard
+    2300032: left stack001
+    2300034: left stack002
+    2300036: Line007
+    2300038: Line008
+    2300040: Line009
+    2300042: Line010
+    2300044: Line011
+    2300046: Line012
+    2300048: Line014
+    2300050: Line015
+    2300052: Line016
+    2300054: middle beam
+    2300056: newtire008
+    2300058: newtire016
+    2300060: newtire017
+    2300062: newtire018
+    2300064: newtire019
+    2300066: newtire020
+    2300068: Object001
+    2300070: passengerside steps
+    2300072: passengerside steps001
+    2300074: Pyramid001
+    2300076: Pyramid003
+    2300078: Rectangle002
+    2300080: Rectangle003
+    2300082: reflectpr lights
+    2300084: right front wheel guard
+    2300086: Tank001
+    2300088: Tank002
+    3300000: Box004
+    3300002: Box007
+    3300004: Box008
+    3300006: Box009
+    3300008: Box010
+    3300010: Box011
+    3300012: Box012
+    3300014: Box013
+    3300016: cabin
+    3300018: ChamferCyl002
+    3300020: Cylinder271
+    3300022: front fender
+    3300024: Group_008
+    3300026: Group_015
+    3300028: Group_024
+    3300030: left ront wheel guard
+    3300032: left stack001
+    3300034: left stack002
+    3300036: Line007
+    3300038: Line008
+    3300040: Line009
+    3300042: Line010
+    3300044: Line011
+    3300046: Line012
+    3300048: Line014
+    3300050: Line015
+    3300052: Line016
+    3300054: middle beam
+    3300056: newtire008
+    3300058: newtire016
+    3300060: newtire017
+    3300062: newtire018
+    3300064: newtire019
+    3300066: newtire020
+    3300068: Object001
+    3300070: passengerside steps
+    3300072: passengerside steps001
+    3300074: Pyramid001
+    3300076: Pyramid003
+    3300078: Rectangle002
+    3300080: Rectangle003
+    3300082: reflectpr lights
+    3300084: right front wheel guard
+    3300086: Tank001
+    3300088: Tank002
+    4300000: Line014
+    4300002: Group_024
+    4300004: Pyramid003
+    4300006: Box013
+    4300008: Box012
+    4300010: Cylinder271
+    4300012: Pyramid001
+    4300014: Box011
+    4300016: Box010
+    4300018: Box009
+    4300020: Box008
+    4300022: Box007
+    4300024: Line015
+    4300026: Group_015
+    4300028: Group_008
+    4300030: Line016
+    4300032: Box004
+    4300034: ChamferCyl002
+    4300036: reflectpr lights
+    4300038: newtire016
+    4300040: newtire008
+    4300042: front fender
+    4300044: left ront wheel guard
+    4300046: right front wheel guard
+    4300048: passengerside steps001
+    4300050: passengerside steps
+    4300052: left stack002
+    4300054: left stack001
+    4300056: Object001
+    4300058: Line012
+    4300060: Line011
+    4300062: Line010
+    4300064: Rectangle003
+    4300066: Line009
+    4300068: Line008
+    4300070: Line007
+    4300072: Rectangle002
+    4300074: cabin
+    4300076: Tank002
+    4300078: middle beam
+    4300080: Tank001
+    4300082: newtire017
+    4300084: newtire018
+    4300086: newtire020
+    4300088: newtire019
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

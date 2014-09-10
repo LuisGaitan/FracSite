@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: b463afd2e30fa07479978777bed3d9f8
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cabin
+    100002: ChamferCyl002
+    100004: Component#1_001
+    100006: Component#1_002
+    100008: Component#1_003
+    100010: Component#1_004
+    100012: Component#1_005
+    100014: Component#1_006
+    100016: Component#1_007
+    100018: Component#1_008
+    100020: Component#1_009
+    100022: Component#1_010
+    100024: Component#1_011
+    100026: Component#1_012
+    100028: Component#1_013
+    100030: Component#1_014
+    100032: Component#1_015
+    100034: Component#1_016
+    100036: Component#1_017
+    100038: Component#1_018
+    100040: Component#2_001
+    100042: Component#2_002
+    100044: Component#2_003
+    100046: Component#3_001
+    100048: Component#3_002
+    100050: Component#4_001
+    100052: Component#4_002
+    100054: Component#4_003
+    100056: Cylinder001
+    100058: front fender
+    100060: Group#23_001
+    100062: Group#23_002
+    100064: Group#28_001
+    100066: Group#28_002
+    100068: Group#30_001
+    100070: Group#30_002
+    100072: Group_001
+    100074: Group_002
+    100076: Group_003
+    100078: Group_004
+    100080: Group_005
+    100082: Group_006
+    100084: Group_007
+    100086: Group_008
+    100088: Group_009
+    100090: Group_010
+    100092: Group_011
+    100094: Group_012
+    100096: Group_013
+    100098: Group_014
+    100100: Group_015
+    100102: Group_016
+    100104: Group_017
+    100106: Group_018
+    100108: Group_019
+    100110: Group_020
+    100112: Group_021
+    100114: Group_022
+    100116: Group_023
+    100118: Group_024
+    100120: Group_025
+    100122: Group_026
+    100124: Group_027
+    100126: Group_028
+    100128: Group_029
+    100130: Group_030
+    100132: Group_031
+    100134: Group_032
+    100136: Group_033
+    100138: Group_034
+    100140: Group_035
+    100142: Group_036
+    100144: Group_037
+    100146: Group_038
+    100148: Group_039
+    100150: Group_040
+    100152: Group_041
+    100154: Layer0_001
+    100156: left ront wheel guard
+    100158: left stack001
+    100160: left stack002
+    100162: Line007
+    100164: Line008
+    100166: Line009
+    100168: Line010
+    100170: Line011
+    100172: Line012
+    100174: middle beam
+    100176: newtire008
+    100178: newtire016
+    100180: newtire017
+    100182: newtire018
+    100184: newtire019
+    100186: newtire020
+    100188: newtire021
+    100190: newtire022
+    100192: newtire023
+    100194: newtire024
+    100196: Object001
+    100198: passengerside steps
+    100200: passengerside steps001
+    100202: Plane001
+    100204: Plane002
+    100206: Plane003
+    100208: Plane004
+    100210: Rectangle002
+    100212: Rectangle003
+    100214: reflectpr lights
+    100216: right exhaust stack
+    100218: right front wheel guard
+    100220: right side mirror
+    100222: right side mirror001
+    100224: Sandtruck Cabin
+    100226: Sandtruck Trailer
+    100228: //RootNode
+    100230: Tank001
+    100232: Tank002
+    100234: Truck Front
+    400000: cabin
+    400002: ChamferCyl002
+    400004: Component#1_001
+    400006: Component#1_002
+    400008: Component#1_003
+    400010: Component#1_004
+    400012: Component#1_005
+    400014: Component#1_006
+    400016: Component#1_007
+    400018: Component#1_008
+    400020: Component#1_009
+    400022: Component#1_010
+    400024: Component#1_011
+    400026: Component#1_012
+    400028: Component#1_013
+    400030: Component#1_014
+    400032: Component#1_015
+    400034: Component#1_016
+    400036: Component#1_017
+    400038: Component#1_018
+    400040: Component#2_001
+    400042: Component#2_002
+    400044: Component#2_003
+    400046: Component#3_001
+    400048: Component#3_002
+    400050: Component#4_001
+    400052: Component#4_002
+    400054: Component#4_003
+    400056: Cylinder001
+    400058: front fender
+    400060: Group#23_001
+    400062: Group#23_002
+    400064: Group#28_001
+    400066: Group#28_002
+    400068: Group#30_001
+    400070: Group#30_002
+    400072: Group_001
+    400074: Group_002
+    400076: Group_003
+    400078: Group_004
+    400080: Group_005
+    400082: Group_006
+    400084: Group_007
+    400086: Group_008
+    400088: Group_009
+    400090: Group_010
+    400092: Group_011
+    400094: Group_012
+    400096: Group_013
+    400098: Group_014
+    400100: Group_015
+    400102: Group_016
+    400104: Group_017
+    400106: Group_018
+    400108: Group_019
+    400110: Group_020
+    400112: Group_021
+    400114: Group_022
+    400116: Group_023
+    400118: Group_024
+    400120: Group_025
+    400122: Group_026
+    400124: Group_027
+    400126: Group_028
+    400128: Group_029
+    400130: Group_030
+    400132: Group_031
+    400134: Group_032
+    400136: Group_033
+    400138: Group_034
+    400140: Group_035
+    400142: Group_036
+    400144: Group_037
+    400146: Group_038
+    400148: Group_039
+    400150: Group_040
+    400152: Group_041
+    400154: Layer0_001
+    400156: left ront wheel guard
+    400158: left stack001
+    400160: left stack002
+    400162: Line007
+    400164: Line008
+    400166: Line009
+    400168: Line010
+    400170: Line011
+    400172: Line012
+    400174: middle beam
+    400176: newtire008
+    400178: newtire016
+    400180: newtire017
+    400182: newtire018
+    400184: newtire019
+    400186: newtire020
+    400188: newtire021
+    400190: newtire022
+    400192: newtire023
+    400194: newtire024
+    400196: Object001
+    400198: passengerside steps
+    400200: passengerside steps001
+    400202: Plane001
+    400204: Plane002
+    400206: Plane003
+    400208: Plane004
+    400210: Rectangle002
+    400212: Rectangle003
+    400214: reflectpr lights
+    400216: right exhaust stack
+    400218: right front wheel guard
+    400220: right side mirror
+    400222: right side mirror001
+    400224: Sandtruck Cabin
+    400226: Sandtruck Trailer
+    400228: //RootNode
+    400230: Tank001
+    400232: Tank002
+    400234: Truck Front
+    2300000: cabin
+    2300002: ChamferCyl002
+    2300004: Component#1_001
+    2300006: Component#1_002
+    2300008: Component#1_003
+    2300010: Component#1_004
+    2300012: Component#1_005
+    2300014: Component#1_006
+    2300016: Component#1_007
+    2300018: Component#1_008
+    2300020: Component#1_009
+    2300022: Component#1_010
+    2300024: Component#1_011
+    2300026: Component#1_012
+    2300028: Component#1_013
+    2300030: Component#1_014
+    2300032: Component#1_015
+    2300034: Component#1_016
+    2300036: Component#1_017
+    2300038: Component#1_018
+    2300040: Component#2_001
+    2300042: Component#2_002
+    2300044: Component#2_003
+    2300046: Component#3_001
+    2300048: Component#3_002
+    2300050: Component#4_001
+    2300052: Component#4_002
+    2300054: Component#4_003
+    2300056: Cylinder001
+    2300058: front fender
+    2300060: Group#23_001
+    2300062: Group#23_002
+    2300064: Group#28_001
+    2300066: Group#28_002
+    2300068: Group#30_001
+    2300070: Group#30_002
+    2300072: Group_001
+    2300074: Group_002
+    2300076: Group_003
+    2300078: Group_004
+    2300080: Group_006
+    2300082: Group_007
+    2300084: Group_009
+    2300086: Group_010
+    2300088: Group_011
+    2300090: Group_012
+    2300092: Group_013
+    2300094: Group_014
+    2300096: Group_015
+    2300098: Group_016
+    2300100: Group_017
+    2300102: Group_018
+    2300104: Group_019
+    2300106: Group_020
+    2300108: Group_021
+    2300110: Group_022
+    2300112: Group_023
+    2300114: Group_024
+    2300116: Group_025
+    2300118: Group_026
+    2300120: Group_027
+    2300122: Group_028
+    2300124: Group_029
+    2300126: Group_030
+    2300128: Group_031
+    2300130: Group_032
+    2300132: Group_033
+    2300134: Group_034
+    2300136: Group_035
+    2300138: Group_036
+    2300140: Group_037
+    2300142: Group_038
+    2300144: Group_039
+    2300146: Group_040
+    2300148: Group_041
+    2300150: left ront wheel guard
+    2300152: left stack001
+    2300154: left stack002
+    2300156: Line007
+    2300158: Line008
+    2300160: Line009
+    2300162: Line010
+    2300164: Line011
+    2300166: Line012
+    2300168: middle beam
+    2300170: newtire008
+    2300172: newtire016
+    2300174: newtire017
+    2300176: newtire018
+    2300178: newtire019
+    2300180: newtire020
+    2300182: newtire021
+    2300184: newtire022
+    2300186: newtire023
+    2300188: newtire024
+    2300190: Object001
+    2300192: passengerside steps
+    2300194: passengerside steps001
+    2300196: Plane001
+    2300198: Plane002
+    2300200: Plane003
+    2300202: Plane004
+    2300204: Rectangle002
+    2300206: Rectangle003
+    2300208: reflectpr lights
+    2300210: right front wheel guard
+    2300212: Tank001
+    2300214: Tank002
+    3300000: cabin
+    3300002: ChamferCyl002
+    3300004: Component#1_001
+    3300006: Component#1_002
+    3300008: Component#1_003
+    3300010: Component#1_004
+    3300012: Component#1_005
+    3300014: Component#1_006
+    3300016: Component#1_007
+    3300018: Component#1_008
+    3300020: Component#1_009
+    3300022: Component#1_010
+    3300024: Component#1_011
+    3300026: Component#1_012
+    3300028: Component#1_013
+    3300030: Component#1_014
+    3300032: Component#1_015
+    3300034: Component#1_016
+    3300036: Component#1_017
+    3300038: Component#1_018
+    3300040: Component#2_001
+    3300042: Component#2_002
+    3300044: Component#2_003
+    3300046: Component#3_001
+    3300048: Component#3_002
+    3300050: Component#4_001
+    3300052: Component#4_002
+    3300054: Component#4_003
+    3300056: Cylinder001
+    3300058: front fender
+    3300060: Group#23_001
+    3300062: Group#23_002
+    3300064: Group#28_001
+    3300066: Group#28_002
+    3300068: Group#30_001
+    3300070: Group#30_002
+    3300072: Group_001
+    3300074: Group_002
+    3300076: Group_003
+    3300078: Group_004
+    3300080: Group_006
+    3300082: Group_007
+    3300084: Group_009
+    3300086: Group_010
+    3300088: Group_011
+    3300090: Group_012
+    3300092: Group_013
+    3300094: Group_014
+    3300096: Group_015
+    3300098: Group_016
+    3300100: Group_017
+    3300102: Group_018
+    3300104: Group_019
+    3300106: Group_020
+    3300108: Group_021
+    3300110: Group_022
+    3300112: Group_023
+    3300114: Group_024
+    3300116: Group_025
+    3300118: Group_026
+    3300120: Group_027
+    3300122: Group_028
+    3300124: Group_029
+    3300126: Group_030
+    3300128: Group_031
+    3300130: Group_032
+    3300132: Group_033
+    3300134: Group_034
+    3300136: Group_035
+    3300138: Group_036
+    3300140: Group_037
+    3300142: Group_038
+    3300144: Group_039
+    3300146: Group_040
+    3300148: Group_041
+    3300150: left ront wheel guard
+    3300152: left stack001
+    3300154: left stack002
+    3300156: Line007
+    3300158: Line008
+    3300160: Line009
+    3300162: Line010
+    3300164: Line011
+    3300166: Line012
+    3300168: middle beam
+    3300170: newtire008
+    3300172: newtire016
+    3300174: newtire017
+    3300176: newtire018
+    3300178: newtire019
+    3300180: newtire020
+    3300182: newtire021
+    3300184: newtire022
+    3300186: newtire023
+    3300188: newtire024
+    3300190: Object001
+    3300192: passengerside steps
+    3300194: passengerside steps001
+    3300196: Plane001
+    3300198: Plane002
+    3300200: Plane003
+    3300202: Plane004
+    3300204: Rectangle002
+    3300206: Rectangle003
+    3300208: reflectpr lights
+    3300210: right front wheel guard
+    3300212: Tank001
+    3300214: Tank002
+    4300000: Group_004
+    4300002: Plane001
+    4300004: Plane002
+    4300006: Plane003
+    4300008: Plane004
+    4300010: Cylinder001
+    4300012: ChamferCyl002
+    4300014: reflectpr lights
+    4300016: newtire016
+    4300018: newtire008
+    4300020: front fender
+    4300022: left ront wheel guard
+    4300024: right front wheel guard
+    4300026: passengerside steps001
+    4300028: passengerside steps
+    4300030: left stack002
+    4300032: left stack001
+    4300034: Object001
+    4300036: Line012
+    4300038: Line011
+    4300040: Line010
+    4300042: Rectangle003
+    4300044: Line009
+    4300046: Line008
+    4300048: Line007
+    4300050: Rectangle002
+    4300052: cabin
+    4300054: Tank002
+    4300056: middle beam
+    4300058: Tank001
+    4300060: newtire017
+    4300062: newtire018
+    4300064: newtire020
+    4300066: newtire019
+    4300068: Group_001
+    4300070: Group_002
+    4300072: Group#28_001
+    4300074: Group#28_002
+    4300076: Group_003
+    4300078: Group_006
+    4300080: Group_007
+    4300082: Group_009
+    4300084: Group_010
+    4300086: Group_011
+    4300088: Group_012
+    4300090: Group_013
+    4300092: Group_014
+    4300094: Group_015
+    4300096: Group_016
+    4300098: Group_017
+    4300100: Group_018
+    4300102: Group_019
+    4300104: Group_020
+    4300106: Group_021
+    4300108: Group_022
+    4300110: Group_023
+    4300112: Group_024
+    4300114: Group_025
+    4300116: Group_026
+    4300118: Group_027
+    4300120: Group_028
+    4300122: Group_029
+    4300124: Group_030
+    4300126: Group_031
+    4300128: Group_032
+    4300130: Group_033
+    4300132: Group_034
+    4300134: Group_035
+    4300136: Group_036
+    4300138: Group#23_001
+    4300140: Group_037
+    4300142: Group#23_002
+    4300144: Group_038
+    4300146: Component#2_001
+    4300148: Group_039
+    4300150: Component#1_001
+    4300152: Component#1_002
+    4300154: Component#1_003
+    4300156: Component#1_004
+    4300158: Component#1_005
+    4300160: Component#1_006
+    4300162: Component#2_002
+    4300164: Group_040
+    4300166: Component#1_007
+    4300168: Component#1_008
+    4300170: Component#1_009
+    4300172: Component#1_010
+    4300174: Component#1_011
+    4300176: Component#1_012
+    4300178: Component#2_003
+    4300180: Group_041
+    4300182: Component#1_013
+    4300184: Component#1_014
+    4300186: Component#1_015
+    4300188: Component#1_016
+    4300190: Component#1_017
+    4300192: Component#1_018
+    4300194: Component#3_001
+    4300196: Component#3_002
+    4300198: Group#30_001
+    4300200: Group#30_002
+    4300202: Component#4_001
+    4300204: Component#4_002
+    4300206: Component#4_003
+    4300208: newtire021
+    4300210: newtire022
+    4300212: newtire023
+    4300214: newtire024
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

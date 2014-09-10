@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 862d22fef324aae41b4d6de9d07551d3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Arc001
+    100002: cabin
+    100004: ChamferCyl002
+    100006: Data Center
+    100008: //RootNode
+    100010: front fender
+    100012: left ront wheel guard
+    100014: left stack001
+    100016: left stack002
+    100018: Line007
+    100020: Line008
+    100022: Line009
+    100024: Line010
+    100026: Line011
+    100028: Line012
+    100030: middle beam
+    100032: newtire008
+    100034: newtire016
+    100036: newtire017
+    100038: newtire018
+    100040: newtire019
+    100042: newtire020
+    100044: Object001
+    100046: passengerside steps
+    100048: passengerside steps001
+    100050: Rectangle002
+    100052: Rectangle003
+    100054: reflectpr lights
+    100056: right exhaust stack
+    100058: right front wheel guard
+    100060: right side mirror
+    100062: right side mirror001
+    100064: Tank001
+    100066: Tank002
+    100068: Truck Front
+    400000: Arc001
+    400002: cabin
+    400004: ChamferCyl002
+    400006: Data Center
+    400008: //RootNode
+    400010: front fender
+    400012: left ront wheel guard
+    400014: left stack001
+    400016: left stack002
+    400018: Line007
+    400020: Line008
+    400022: Line009
+    400024: Line010
+    400026: Line011
+    400028: Line012
+    400030: middle beam
+    400032: newtire008
+    400034: newtire016
+    400036: newtire017
+    400038: newtire018
+    400040: newtire019
+    400042: newtire020
+    400044: Object001
+    400046: passengerside steps
+    400048: passengerside steps001
+    400050: Rectangle002
+    400052: Rectangle003
+    400054: reflectpr lights
+    400056: right exhaust stack
+    400058: right front wheel guard
+    400060: right side mirror
+    400062: right side mirror001
+    400064: Tank001
+    400066: Tank002
+    400068: Truck Front
+    2300000: Arc001
+    2300002: cabin
+    2300004: ChamferCyl002
+    2300006: Data Center
+    2300008: front fender
+    2300010: left ront wheel guard
+    2300012: left stack001
+    2300014: left stack002
+    2300016: Line007
+    2300018: Line008
+    2300020: Line009
+    2300022: Line010
+    2300024: Line011
+    2300026: Line012
+    2300028: middle beam
+    2300030: newtire008
+    2300032: newtire016
+    2300034: newtire017
+    2300036: newtire018
+    2300038: newtire019
+    2300040: newtire020
+    2300042: Object001
+    2300044: passengerside steps
+    2300046: passengerside steps001
+    2300048: Rectangle002
+    2300050: Rectangle003
+    2300052: reflectpr lights
+    2300054: right front wheel guard
+    2300056: Tank001
+    2300058: Tank002
+    3300000: Arc001
+    3300002: cabin
+    3300004: ChamferCyl002
+    3300006: Data Center
+    3300008: front fender
+    3300010: left ront wheel guard
+    3300012: left stack001
+    3300014: left stack002
+    3300016: Line007
+    3300018: Line008
+    3300020: Line009
+    3300022: Line010
+    3300024: Line011
+    3300026: Line012
+    3300028: middle beam
+    3300030: newtire008
+    3300032: newtire016
+    3300034: newtire017
+    3300036: newtire018
+    3300038: newtire019
+    3300040: newtire020
+    3300042: Object001
+    3300044: passengerside steps
+    3300046: passengerside steps001
+    3300048: Rectangle002
+    3300050: Rectangle003
+    3300052: reflectpr lights
+    3300054: right front wheel guard
+    3300056: Tank001
+    3300058: Tank002
+    4300000: Arc001
+    4300002: middle beam
+    4300004: ChamferCyl002
+    4300006: Data Center
+    4300008: reflectpr lights
+    4300010: newtire020
+    4300012: newtire019
+    4300014: newtire018
+    4300016: newtire017
+    4300018: newtire016
+    4300020: newtire008
+    4300022: Tank002
+    4300024: Tank001
+    4300026: cabin
+    4300028: Rectangle002
+    4300030: Line007
+    4300032: Line008
+    4300034: Line009
+    4300036: Rectangle003
+    4300038: Line010
+    4300040: Line011
+    4300042: Line012
+    4300044: Object001
+    4300046: left stack001
+    4300048: left stack002
+    4300050: passengerside steps
+    4300052: passengerside steps001
+    4300054: right front wheel guard
+    4300056: left ront wheel guard
+    4300058: front fender
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

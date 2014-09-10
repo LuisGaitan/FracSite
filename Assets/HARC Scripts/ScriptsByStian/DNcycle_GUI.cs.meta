@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fe33779e4cd2c71468bbe5055824b932
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lowerDome: {fileID: 100000, guid: 8153a9581ca47024f8fcdd81c1f83f96, type: 2}
+  - upperDome: {fileID: 100000, guid: 5f0b959c496c86a4e9e2114780f097e3, type: 2}
+  - materialDayLower: {fileID: 2100000, guid: 1e2a30af088839141bd84715d21f0c85, type: 2}
+  - materialDayUpper: {fileID: 2100000, guid: 4a4fa800dc7f19f43bd0ca69feabfc7e, type: 2}
+  - materialNightLower: {fileID: 2100000, guid: 19a071d12b6135f40932034cbe52370e,
+      type: 2}
+  - materialNightUpper: {fileID: 2100000, guid: c3245062c6a4bc44e8e235e3b0094f9a,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

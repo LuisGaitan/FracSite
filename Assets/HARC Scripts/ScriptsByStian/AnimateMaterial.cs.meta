@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fa09effae3ecb65449033d5780a29627
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lowerDome: {fileID: 100000, guid: 8153a9581ca47024f8fcdd81c1f83f96, type: 2}
+  - upperDome: {fileID: 100000, guid: 5f0b959c496c86a4e9e2114780f097e3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
