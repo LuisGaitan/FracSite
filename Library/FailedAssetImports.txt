@@ -1,0 +1,2 @@
+Assets/FBX/Sandtruck_export.fbm/Stand_uv map.jpg
+Assets/Scenes/ModifiedDay/LightmapFar-14.exr
