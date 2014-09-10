@@ -1,0 +1,81 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-CSharp-firstpass.csproj", "{89812D6E-240C-D4C3-1EEE-7EBE722D05DA}"
+EndProject
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-CSharp.csproj", "{A71A8F43-6F43-BC80-726E-BD0A3F5F0988}"
+EndProject
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-CSharp-Editor-firstpass.csproj", "{AE66CDC4-2002-8122-5D81-99B63CB669DC}"
+EndProject
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-CSharp-Editor.csproj", "{964396A3-8917-7907-6BC7-46959B8598C5}"
+EndProject
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-UnityScript-firstpass.unityproj", "{92BC8E9A-F80A-AD83-2F51-9DDCFF8F1EA0}"
+EndProject
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-UnityScript.unityproj", "{E06279CE-69AC-9417-1541-7368834C3036}"
+EndProject
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-UnityScript-Editor-firstpass.unityproj", "{6729C947-17BE-1E92-AAE6-7FA824FF51D6}"
+EndProject
+Project("{F8F444B3-5F5E-F304-E720-79B6EFD6A49C}") = "HARCEXEL - AndroidTV", "Assembly-UnityScript-Editor.unityproj", "{9146CBD8-D371-942C-E84E-885186223EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89812D6E-240C-D4C3-1EEE-7EBE722D05DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89812D6E-240C-D4C3-1EEE-7EBE722D05DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89812D6E-240C-D4C3-1EEE-7EBE722D05DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89812D6E-240C-D4C3-1EEE-7EBE722D05DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71A8F43-6F43-BC80-726E-BD0A3F5F0988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71A8F43-6F43-BC80-726E-BD0A3F5F0988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71A8F43-6F43-BC80-726E-BD0A3F5F0988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71A8F43-6F43-BC80-726E-BD0A3F5F0988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE66CDC4-2002-8122-5D81-99B63CB669DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE66CDC4-2002-8122-5D81-99B63CB669DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE66CDC4-2002-8122-5D81-99B63CB669DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE66CDC4-2002-8122-5D81-99B63CB669DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964396A3-8917-7907-6BC7-46959B8598C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964396A3-8917-7907-6BC7-46959B8598C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964396A3-8917-7907-6BC7-46959B8598C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964396A3-8917-7907-6BC7-46959B8598C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92BC8E9A-F80A-AD83-2F51-9DDCFF8F1EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92BC8E9A-F80A-AD83-2F51-9DDCFF8F1EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92BC8E9A-F80A-AD83-2F51-9DDCFF8F1EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92BC8E9A-F80A-AD83-2F51-9DDCFF8F1EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06279CE-69AC-9417-1541-7368834C3036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06279CE-69AC-9417-1541-7368834C3036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06279CE-69AC-9417-1541-7368834C3036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06279CE-69AC-9417-1541-7368834C3036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6729C947-17BE-1E92-AAE6-7FA824FF51D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6729C947-17BE-1E92-AAE6-7FA824FF51D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6729C947-17BE-1E92-AAE6-7FA824FF51D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6729C947-17BE-1E92-AAE6-7FA824FF51D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9146CBD8-D371-942C-E84E-885186223EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9146CBD8-D371-942C-E84E-885186223EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9146CBD8-D371-942C-E84E-885186223EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9146CBD8-D371-942C-E84E-885186223EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+												GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

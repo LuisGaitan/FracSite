@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets (Mobile)\Scripts\Joystick.js">
+    <Files>
+      <File FileName="Assets\Standard Assets (Mobile)\Scripts\Joystick.js" Line="161" Column="21" />
+      <File FileName="Assets\HARC Scripts\DoubleClick2.cs" Line="1" Column="1" />
+      <File FileName="Assets\HARC Scripts\Crosshair_1.cs" Line="1" Column="1" />
+      <File FileName="Assets\HARC Scripts\Chest.cs" Line="1" Column="1" />
+      <File FileName="Assets\HARC Scripts\F2Menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\HARC Scripts\Minimap.cs" Line="1" Column="1" />
+      <File FileName="Assets\HARC Scripts\Glow.cs" Line="1" Column="1" />
+      <File FileName="Assets\HARC Scripts\OpenDoor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
